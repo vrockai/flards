@@ -1,0 +1,31 @@
+{
+  "name": "flards",
+  "version": "0.0.1",
+  "description": "Flash-cards server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrockai/flards.git"
+  },
+  "keywords": [
+    "flash",
+    "cards",
+    "flards",
+    "vocabulary"
+  ],
+  "author": "vrockai",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vrockai/flards/issues"
+  },
+  "homepage": "https://github.com/vrockai/flards#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mongoose": "^4.7.5",
+    "restify": "^4.3.0"
+  }
+}
